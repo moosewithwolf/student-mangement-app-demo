@@ -20,25 +20,36 @@ This project was developed to solve the real-world administrative challenges fac
 
 *(Visual demonstrations using placeholder or dummy data.)*
 
-### 1. Student Dashboard
-- **Description:** Shows the student’s personal dashboard, including active lessons, progress tracking, and accessible materials. Only lessons started/released by the teacher are visible.  
-- **Screenshot/GIF:** `[Screenshot or GIF of the Student Dashboard showing active lessons and progress]`
-
-### 2. Teacher Dashboard – Student Management
+### 1. Teacher Dashboard – Student Management
 - **Description:** Provides an overview of all students under the teacher’s supervision. Teachers can activate student accounts, assign lessons, and monitor progress.  
-- **Screenshot/GIF:** `[Screenshot or GIF of the Teacher's Student Management view showing student list and controls]`
+- **Screenshot/GIF / Video:** 
+<video controls src="https://github.com/user-attachments/assets/1127c322-1967-40f1-97b2-5eb1c40e677e" width="600">
+Your browser does not support the video tag.
+</video>
+
+### 2. Student Dashboard
+- **Description:** Shows the student’s personal dashboard, including active lessons, progress tracking, and accessible materials. Only lessons started/released by the teacher are visible.  
+- **Screenshot/GIF / Video:** 
+<video controls src="https://github.com/user-attachments/assets/1c48ace6-18ca-44d5-b6d5-65a61dfdf8ab" width="600">
+Your browser does not support the video tag.
+</video>
 
 ### 3. Curriculum Hierarchy
 - **Description:** Displays the full curriculum in a structured Level → Unit → Lesson view. Each lesson shows its status (Completed, In Progress, Not Started) for a selected student.  
-- **Screenshot/GIF:** `[Screenshot or GIF of Curriculum Hierarchy for a student]`
+- **Screenshot/GIF / Video:** 
+<video controls src="https://github.com/user-attachments/assets/0b502953-0eb0-4e7a-84f5-40daa19d3f25" width="600">
+Your browser does not support the video tag.
+</video>
 
-### 4. Lesson Access & Materials
-- **Description:** Illustrates lesson content access, including secure file sharing, homework, and external links. Only available lessons are shown.  
-- **Screenshot/GIF:** `[Screenshot or GIF of a lesson page with materials and links]`
-
-### 5. Authentication & Role Management
+### 4. Authentication & Role Management
 - **Description:** Shows login via Google OAuth2 and role-based access control. Demonstrates the difference between guest, student, and teacher views.  
-- **Screenshot/GIF:** `[Screenshot or GIF of login and role-based dashboard access]`
+- **Screenshot/GIF / Video:** 
+<video controls src="https://github.com/user-attachments/assets/0328dc5e-1100-44bc-8636-dabc3038e33c
+" width="600">
+Your browser does not support the video tag.
+</video>
+
+
 
 
 ## Architecture & Design
